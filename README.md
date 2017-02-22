@@ -1,7 +1,7 @@
-PHP image for pimcore
+PHP image for laravel 5
 =====================
 
-PHP container for pimcore applications. Pimcore is not installed in the Image.
+PHP container for Laravel 5 applications. Laravel is not installed in the Image.
 
 Versions
 --------
